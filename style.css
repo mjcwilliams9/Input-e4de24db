@@ -1,9 +1,9 @@
-label {
-    display: block;
-    font: 1rem 'Fira Sans', sans-serif;
+h1 {
+    font-size: 200%;
 }
 
-input,
-label {
-    margin: .1rem 0;
+label, input{
+  height: 25px;
+  width: 300px;
+  border-radius: 10px;
 }
